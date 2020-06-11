@@ -1,0 +1,14 @@
+windows下操作
+cd d:
+mkdir learn_git
+git init
+git config --global user.name  "daopei"
+git config --global user.email "252780456@qq.com"
+git config --global --list
+git status
+新建一个html文件 learn_git.html
+git add learn_git.html 
+git commit -m "create learn_git.html"
+修改 learn_git.html文件
+git add .
+
